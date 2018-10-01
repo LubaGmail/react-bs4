@@ -50,6 +50,8 @@ GIT Update
 
         git push -u origin master
                 -- check remote repo
+        git remote -v
+
 
 
 
