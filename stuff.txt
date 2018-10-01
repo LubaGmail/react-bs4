@@ -42,6 +42,25 @@ GIT GUI
 -------
         git gui
 
+GIT Update
+----------
+        make changes to stuff.txt
+        git commit .
+               -- vim esc uncomment # :wq
+
+        git push -u origin master
+                -- check remote repo
+
+
+
+        
+
+
+
+
+
+
+
 
 
 
