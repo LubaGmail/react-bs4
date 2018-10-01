@@ -21,13 +21,26 @@ http://getbootstrap.com/docs/4.1/examples/sticky-footer/
 https://www.w3schools.com/CSSref/tryit.asp?filename=trycss_overflow
 
 GIT
-___
-
+----
         git bash
         cd /c/ws/react/react-bs4
         git init .
         git add .gitignore
-        
+        git add .
+        git commit .
+                -- vim esc comment wq
+
+GIT Remote
+----------   
+        https://github.com/LubaGmail     -> repositories ->    [NEW]   /react-bs4
+
+        git remote add origin https://github.com/LubaGmail/react-bs4.git  
+
+        git push -u origin master
+
+GIT GUI        
+-------
+        git gui
 
 
 
