@@ -1,0 +1,6 @@
+div.ex1 {
+    background-color: lightpink;
+    /* width: 600px; */
+    height: 250px;
+    overflow: auto;
+}

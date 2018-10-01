@@ -1,0 +1,6 @@
+div.ex2 {
+    background-color: lightblue;
+    /* width: 600px; */
+    height: 250px;
+    overflow: auto;
+}

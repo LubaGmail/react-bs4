@@ -1,0 +1,44 @@
+npm i -g create-react-app
+
+rcc
+
+https://www.youtube.com/watch?v=rALJykvIM-M&index=1&list=PLa0qIOBfWOZBb14BNZWr_hdAfWFow_fB_
+
+https://getbootstrap.com/docs/4.0/getting-started/download/
+        BootstrapCDN
+
+npm i react-router-dom --save
+
+Change bs tags to react tags
+----------------------------
+
+        class           ->      className
+        a               ->      Link
+        href            ->      to
+
+http://getbootstrap.com/docs/4.1/examples/sticky-footer/
+
+https://www.w3schools.com/CSSref/tryit.asp?filename=trycss_overflow
+
+GIT
+___
+
+        git bash
+        cd /c/ws/react/react-bs4
+        git init .
+        git add .gitignore
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
